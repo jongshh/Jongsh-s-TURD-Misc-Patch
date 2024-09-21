@@ -1,4 +1,4 @@
-# KSP_TURD_Patch
+# Jongsh's TURD Misc Patch
 
 ![screenshot2868](https://github.com/user-attachments/assets/9f89ead9-6925-460c-8e32-3947fb513c7e)
 
