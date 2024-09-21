@@ -1,4 +1,8 @@
 # KSP_TURD_Patch
+
+![screenshot2868](https://github.com/user-attachments/assets/9f89ead9-6925-460c-8e32-3947fb513c7e)
+
+
 # TURD 
 ## (Textures Unlimited Recolour Depot) 
 is a continuation / adaptation / expansion of previous work I undertook for the mod KerbPaint many moons ago. It now uses shaders made available via Textures Unlimited to bring user control over the colour and material properties of many many parts.
