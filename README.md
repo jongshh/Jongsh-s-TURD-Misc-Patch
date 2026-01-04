@@ -1,6 +1,6 @@
 # Jongsh's TURD Misc Patch
 
-![screenshot2868](https://github.com/user-attachments/assets/9f89ead9-6925-460c-8e32-3947fb513c7e)
+<img width="2560" height="1440" alt="screenshot7124" src="https://github.com/user-attachments/assets/79cc5dc2-e7e7-4850-8585-d12ac9eb25f3" />
 
 
 # TURD 
